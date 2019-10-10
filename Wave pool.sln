@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Wave pool", "Wave pool\Wave pool.vbproj", "{775D9332-2112-4AAE-A007-42324BB114FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{775D9332-2112-4AAE-A007-42324BB114FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775D9332-2112-4AAE-A007-42324BB114FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775D9332-2112-4AAE-A007-42324BB114FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775D9332-2112-4AAE-A007-42324BB114FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7643DB64-60CB-4CCE-983B-695DE6C3B0CC}
+	EndGlobalSection
+EndGlobal

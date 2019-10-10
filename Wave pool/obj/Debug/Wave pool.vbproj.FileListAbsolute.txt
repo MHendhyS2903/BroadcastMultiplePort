@@ -1,0 +1,12 @@
+E:\ASIA TRANS\Wave pool\Wave pool\bin\Debug\Wave pool.exe.config
+E:\ASIA TRANS\Wave pool\Wave pool\bin\Debug\Wave pool.exe
+E:\ASIA TRANS\Wave pool\Wave pool\bin\Debug\Wave pool.pdb
+E:\ASIA TRANS\Wave pool\Wave pool\bin\Debug\Wave pool.xml
+E:\ASIA TRANS\Wave pool\Wave pool\obj\Debug\Wave_pool.Form1.resources
+E:\ASIA TRANS\Wave pool\Wave pool\obj\Debug\Wave_pool.Resources.resources
+E:\ASIA TRANS\Wave pool\Wave pool\obj\Debug\Wave pool.vbproj.GenerateResource.cache
+E:\ASIA TRANS\Wave pool\Wave pool\obj\Debug\Wave pool.vbproj.CoreCompileInputs.cache
+E:\ASIA TRANS\Wave pool\Wave pool\obj\Debug\Wave pool.exe
+E:\ASIA TRANS\Wave pool\Wave pool\obj\Debug\Wave pool.xml
+E:\ASIA TRANS\Wave pool\Wave pool\obj\Debug\Wave pool.pdb
+E:\ASIA TRANS\Wave pool\Wave pool\obj\Debug\Wave pool.vbprojAssemblyReference.cache
